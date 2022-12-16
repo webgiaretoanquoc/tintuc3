@@ -1,0 +1,724 @@
+Uri: https://fonts.google.com/download?family=EB Garamond
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\EB_Garamond.zip
+Content Type: application/zip
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:regular%2Cregular%2Cregular%2C700|Dancing+Script:regular%2C400&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc3.webtudong8giay.com%252Fgioi-thieu-mau-thiet-ke-loc-thanh-mung-xuan-2018-dong-hanh-voi-cac-gia-dinh-tre%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc3.webtudong8giay.com%252Flogo-ban-le-sinh-va-thiep-moi-bon-mang-thanh-daminh-savio%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc3.webtudong8giay.com%252Fmoi-ban-doc-tham-gia-cuoc-thi-thiet-ke-giang-sinh-2017-tu-catholic-design%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc3.webtudong8giay.com%252Ftai-mien-phi-phong-san-khau-ngay-gap-mat-va-gioi-thieu-on-goi-gx-con-thoi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc3.webtudong8giay.com%252Fthiep-moi-le-bon-mang-huynh-truong-tntt-giao-xu-chinh-toa-ha-noi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc3.webtudong8giay.com%252Fthiet-ke-bia-tap-san-cong-giao-xuan-dinh-dau%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc3.webtudong8giay.com%252Fthiet-ke-phong-san-khau-le-bon-mang-gioi-tre-thanh-gioan-don-bosco%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc3.webtudong8giay.com%252Fthiet-ke-thiep-giang-sinh-2017-cho-giao-xu-tra-co-giao-phan-xuan-loc%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc3.webtudong8giay.com%252Fthiet-ke-thiep-moi-bon-mang-thanh-giuse-hoi-huynh-de-ty-muoi-giao-tinh-mien-bac%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftintuc3.webtudong8giay.com%252Fthiet-ke-thiep-moi-le-quan-thay-gioi-tre-giao-xu-ke-nghe-tgp-ha-noi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://tintuc3.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/2018/03/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\2018\03\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/2018/04/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\2018\04\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/chia-se/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\chia-se\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/chia-se/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\chia-se\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/chia-se/hinh-anh/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\chia-se\hinh-anh\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/chia-se/hinh-anh/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\chia-se\hinh-anh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/chia-se/tai-lieu/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\chia-se\tai-lieu\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/chia-se/tai-lieu/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\chia-se\tai-lieu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/chia-se/videos/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\chia-se\videos\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/chia-se/videos/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\chia-se\videos\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/cuoc-song/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\cuoc-song\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/cuoc-song/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\cuoc-song\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/goc-chia-se/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\goc-chia-se\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/goc-chia-se/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\goc-chia-se\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/hoc-hoi/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\hoc-hoi\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/hoc-hoi/ebook/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\hoc-hoi\ebook\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/hoc-hoi/ebook/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\hoc-hoi\ebook\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/hoc-hoi/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\hoc-hoi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/hoc-hoi/hoc-hoi-youcat/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\hoc-hoi\hoc-hoi-youcat\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/hoc-hoi/hoc-hoi-youcat/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\hoc-hoi\hoc-hoi-youcat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/hoc-wordpress/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\hoc-wordpress\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/hoc-wordpress/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\hoc-wordpress\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/nghe-thuat/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\nghe-thuat\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/nghe-thuat/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\nghe-thuat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/thiet-ke-do-hoa/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\thiet-ke-do-hoa\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/thiet-ke-do-hoa/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\thiet-ke-do-hoa\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/thiet-ke-website/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\thiet-ke-website\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/thiet-ke-website/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\thiet-ke-website\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/tin-tuc/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/tin-tuc/giao-hoi-hoan-vu/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\tin-tuc\giao-hoi-hoan-vu\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/tin-tuc/giao-hoi-hoan-vu/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\tin-tuc\giao-hoi-hoan-vu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/tin-tuc/giao-hoi-viet-nam/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\tin-tuc\giao-hoi-viet-nam\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/chuyen-muc/tin-tuc/giao-hoi-viet-nam/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\chuyen-muc\tin-tuc\giao-hoi-viet-nam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/gioi-thieu-mau-thiet-ke-loc-thanh-mung-xuan-2018-dong-hanh-voi-cac-gia-dinh-tre/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\gioi-thieu-mau-thiet-ke-loc-thanh-mung-xuan-2018-dong-hanh-voi-cac-gia-dinh-tre\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/gioi-thieu-mau-thiet-ke-loc-thanh-mung-xuan-2018-dong-hanh-voi-cac-gia-dinh-tre/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\gioi-thieu-mau-thiet-ke-loc-thanh-mung-xuan-2018-dong-hanh-voi-cac-gia-dinh-tre\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/logo-ban-le-sinh-va-thiep-moi-bon-mang-thanh-daminh-savio/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\logo-ban-le-sinh-va-thiep-moi-bon-mang-thanh-daminh-savio\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/logo-ban-le-sinh-va-thiep-moi-bon-mang-thanh-daminh-savio/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\logo-ban-le-sinh-va-thiep-moi-bon-mang-thanh-daminh-savio\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/moi-ban-doc-tham-gia-cuoc-thi-thiet-ke-giang-sinh-2017-tu-catholic-design/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\moi-ban-doc-tham-gia-cuoc-thi-thiet-ke-giang-sinh-2017-tu-catholic-design\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/moi-ban-doc-tham-gia-cuoc-thi-thiet-ke-giang-sinh-2017-tu-catholic-design/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\moi-ban-doc-tham-gia-cuoc-thi-thiet-ke-giang-sinh-2017-tu-catholic-design\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/tag/tin-hoat-dong/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\tag\tin-hoat-dong\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/tag/tin-hoat-dong/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\tag\tin-hoat-dong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/tai-mien-phi-phong-san-khau-ngay-gap-mat-va-gioi-thieu-on-goi-gx-con-thoi/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\tai-mien-phi-phong-san-khau-ngay-gap-mat-va-gioi-thieu-on-goi-gx-con-thoi\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/tai-mien-phi-phong-san-khau-ngay-gap-mat-va-gioi-thieu-on-goi-gx-con-thoi/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\tai-mien-phi-phong-san-khau-ngay-gap-mat-va-gioi-thieu-on-goi-gx-con-thoi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/thiep-moi-le-bon-mang-huynh-truong-tntt-giao-xu-chinh-toa-ha-noi/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\thiep-moi-le-bon-mang-huynh-truong-tntt-giao-xu-chinh-toa-ha-noi\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/thiep-moi-le-bon-mang-huynh-truong-tntt-giao-xu-chinh-toa-ha-noi/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\thiep-moi-le-bon-mang-huynh-truong-tntt-giao-xu-chinh-toa-ha-noi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/thiet-ke-bia-tap-san-cong-giao-xuan-dinh-dau/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\thiet-ke-bia-tap-san-cong-giao-xuan-dinh-dau\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/thiet-ke-bia-tap-san-cong-giao-xuan-dinh-dau/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\thiet-ke-bia-tap-san-cong-giao-xuan-dinh-dau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/thiet-ke-phong-san-khau-le-bon-mang-gioi-tre-thanh-gioan-don-bosco/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\thiet-ke-phong-san-khau-le-bon-mang-gioi-tre-thanh-gioan-don-bosco\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/thiet-ke-phong-san-khau-le-bon-mang-gioi-tre-thanh-gioan-don-bosco/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\thiet-ke-phong-san-khau-le-bon-mang-gioi-tre-thanh-gioan-don-bosco\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/thiet-ke-thiep-giang-sinh-2017-cho-giao-xu-tra-co-giao-phan-xuan-loc/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\thiet-ke-thiep-giang-sinh-2017-cho-giao-xu-tra-co-giao-phan-xuan-loc\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/thiet-ke-thiep-giang-sinh-2017-cho-giao-xu-tra-co-giao-phan-xuan-loc/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\thiet-ke-thiep-giang-sinh-2017-cho-giao-xu-tra-co-giao-phan-xuan-loc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/thiet-ke-thiep-moi-bon-mang-thanh-giuse-hoi-huynh-de-ty-muoi-giao-tinh-mien-bac/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\thiet-ke-thiep-moi-bon-mang-thanh-giuse-hoi-huynh-de-ty-muoi-giao-tinh-mien-bac\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/thiet-ke-thiep-moi-bon-mang-thanh-giuse-hoi-huynh-de-ty-muoi-giao-tinh-mien-bac/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\thiet-ke-thiep-moi-bon-mang-thanh-giuse-hoi-huynh-de-ty-muoi-giao-tinh-mien-bac\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/thiet-ke-thiep-moi-le-quan-thay-gioi-tre-giao-xu-ke-nghe-tgp-ha-noi/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\thiet-ke-thiep-moi-le-quan-thay-gioi-tre-giao-xu-ke-nghe-tgp-ha-noi\index.htm
+Content Type: text/html
+
+Uri: https://tintuc3.webtudong8giay.com/thiet-ke-thiep-moi-le-quan-thay-gioi-tre-giao-xu-ke-nghe-tgp-ha-noi/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\thiet-ke-thiep-moi-le-quan-thay-gioi-tre-giao-xu-ke-nghe-tgp-ha-noi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/uploads/2018/04/bg-background.jpg
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\uploads\2018\04\bg-background.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/uploads/2018/04/footer-bg.jpg
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\uploads\2018\04\footer-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/uploads/2018/04/grd-border.png
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\uploads\2018\04\grd-border.png
+Content Type: image/png
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/uploads/2018/04/ic_point.png
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\uploads\2018\04\ic_point.png
+Content Type: image/png
+
+Uri: https://tintuc3.webtudong8giay.com/wp-content/uploads/2018/11/logo-giuseart.png
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-content\uploads\2018\11\logo-giuseart.png
+Content Type: image/png
+
+Uri: https://tintuc3.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://tintuc3.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://tintuc3.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-includes\css\dashicons.min-1.css
+Content Type: text/css
+
+Uri: https://tintuc3.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://tintuc3.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://tintuc3.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tintuc3.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://tintuc3.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://tintuc3.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://tintuc3.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://tintuc3.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://tintuc3.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: text/xml
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: text/xml
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Fgioi-thieu-mau-thiet-ke-loc-thanh-mung-xuan-2018-dong-hanh-voi-cac-gia-dinh-tre%2F
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Fgioi-thieu-mau-thiet-ke-loc-thanh-mung-xuan-2018-dong-hanh-voi-cac-gia-dinh-tre%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: text/xml
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: text/xml
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Flogo-ban-le-sinh-va-thiep-moi-bon-mang-thanh-daminh-savio%2F
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Flogo-ban-le-sinh-va-thiep-moi-bon-mang-thanh-daminh-savio%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: text/xml
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Fmoi-ban-doc-tham-gia-cuoc-thi-thiet-ke-giang-sinh-2017-tu-catholic-design%2F
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Fmoi-ban-doc-tham-gia-cuoc-thi-thiet-ke-giang-sinh-2017-tu-catholic-design%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: text/xml
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Ftai-mien-phi-phong-san-khau-ngay-gap-mat-va-gioi-thieu-on-goi-gx-con-thoi%2F
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Ftai-mien-phi-phong-san-khau-ngay-gap-mat-va-gioi-thieu-on-goi-gx-con-thoi%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: text/xml
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Fthiep-moi-le-bon-mang-huynh-truong-tntt-giao-xu-chinh-toa-ha-noi%2F
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Fthiep-moi-le-bon-mang-huynh-truong-tntt-giao-xu-chinh-toa-ha-noi%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: text/xml
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Fthiet-ke-bia-tap-san-cong-giao-xuan-dinh-dau%2F
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Fthiet-ke-bia-tap-san-cong-giao-xuan-dinh-dau%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: text/xml
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Fthiet-ke-phong-san-khau-le-bon-mang-gioi-tre-thanh-gioan-don-bosco%2F
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Fthiet-ke-phong-san-khau-le-bon-mang-gioi-tre-thanh-gioan-don-bosco%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: text/xml
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Fthiet-ke-thiep-giang-sinh-2017-cho-giao-xu-tra-co-giao-phan-xuan-loc%2F
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Fthiet-ke-thiep-giang-sinh-2017-cho-giao-xu-tra-co-giao-phan-xuan-loc%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: text/xml
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Fthiet-ke-thiep-moi-bon-mang-thanh-giuse-hoi-huynh-de-ty-muoi-giao-tinh-mien-bac%2F
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Fthiet-ke-thiep-moi-bon-mang-thanh-giuse-hoi-huynh-de-ty-muoi-giao-tinh-mien-bac%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: text/xml
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Fthiet-ke-thiep-moi-le-quan-thay-gioi-tre-giao-xu-ke-nghe-tgp-ha-noi%2F
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftintuc3.webtudong8giay.com%2Fthiet-ke-thiep-moi-le-quan-thay-gioi-tre-giao-xu-ke-nghe-tgp-ha-noi%2F&format=xml
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: text/xml
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/categories/12
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\categories\12
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/categories/13
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\categories\13
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/categories/14
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\categories\14
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/categories/15
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\categories\15
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/categories/16
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\categories\16
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/categories/18
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\categories\18
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/categories/19
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\categories\19
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/categories/20
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\categories\20
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/categories/22
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\categories\22
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/categories/23
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\categories\23
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/categories/24
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\categories\24
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/categories/27
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\categories\27
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/categories/30
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\categories\30
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/categories/31
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\categories\31
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/categories/32
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\categories\32
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/pages/845
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\pages\845
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/pages/852
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\pages\852
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/posts/142
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\posts\142
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/posts/145
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\posts\145
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/posts/148
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\posts\148
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/posts/151
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\posts\151
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/posts/154
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\posts\154
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/posts/318
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\posts\318
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/posts/323
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\posts\323
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/posts/327
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\posts\327
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/posts/330
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\posts\330
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/posts/344
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\posts\344
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/wp-json/wp/v2/tags/4
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\wp-json\wp\v2\tags\4
+Content Type: application/json
+
+Uri: https://tintuc3.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\tintuc3.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
